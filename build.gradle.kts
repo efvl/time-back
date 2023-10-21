@@ -5,7 +5,6 @@ plugins {
 }
 
 group = "by.evv"
-
 java {
 	sourceCompatibility = JavaVersion.VERSION_17
 }
